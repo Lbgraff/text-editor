@@ -2,13 +2,9 @@
 
 ## Description
 
-My motivation for this project was to learn about progressive web applications.
-I built this text editor application to gain experience building a PWA.
-I learned about creating a stand alone app.
+My motivation for this project was to learn about progressive web applications. I built this text editor application to gain experience building a PWA. I learned about creating a stand alone app.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,7 +12,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-The user will run 'npm i' to install the dependencies. The user will cd to the client folder and 'npm run build' to install the dist folder. They will cd to the servver folder and run 'node server.js'. The user will go to the browswer and enter URL 'http://localhost:3000/'. They will see the application in the browser and have the choice to install it as a stand alone app on their computer.
+The user will run 'npm i' to install the dependencies. The user will cd to the client folder and 'npm run build' to install the dist folder. They will cd to the server folder and run 'node server.js'. The user will go to the browswer and enter URL 'http://localhost:3000/'. They will see the application in the browser and have the choice to install it as a stand alone app on their computer.
 
 ## Usage
 
