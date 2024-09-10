@@ -4,7 +4,7 @@
 
 My motivation for this project was to learn about progressive web applications. I built this text editor application to gain experience building a PWA. I learned about creating a stand alone app.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -26,3 +26,6 @@ The user may install the application onto their local device as a stand alone ap
 ## Credits
 
 I referred to the class activities and mini project for this unit and past units in order to get examples.
+
+Link to Github repo: https://github.com/Lbgraff/text-editor
+Link to deployed site: https://text-editor-jyl6.onrender.com
