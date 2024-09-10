@@ -28,4 +28,4 @@ The user may install the application onto their local device as a stand alone ap
 I referred to the class activities and mini project for this unit and past units in order to get examples.
 
 Link to Github repo: https://github.com/Lbgraff/text-editor
-Link to deployed site: https://text-editor-jyl6.onrender.com
+Link to deployed site: https://text-editor-g11y.onrender.com/
